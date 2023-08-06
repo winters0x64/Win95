@@ -1,0 +1,75 @@
+2023/08/05-14:39:35.808 fd1 Reusing MANIFEST /home/winters/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/05-14:39:35.810 fd1 Recovering log #898
+2023/08/05-14:39:35.810 fd1 Reusing old log /home/winters/.config/discord/Local Storage/leveldb/000898.log 
+2023/08/05-15:56:58.490 1008 Level-0 table #903: started
+2023/08/05-15:56:58.500 1008 Level-0 table #903: 27118 bytes OK
+2023/08/05-15:56:58.522 1008 Delete type=0 #898
+2023/08/05-18:07:22.672 1a27 Level-0 table #905: started
+2023/08/05-18:07:22.683 1a27 Level-0 table #905: 21550 bytes OK
+2023/08/05-18:07:22.684 1a27 Delete type=0 #902
+2023/08/05-22:42:59.736 2356 Level-0 table #907: started
+2023/08/05-22:42:59.746 2356 Level-0 table #907: 20814 bytes OK
+2023/08/05-22:42:59.748 2356 Delete type=0 #904
+2023/08/05-23:33:12.535 2356 Level-0 table #909: started
+2023/08/05-23:33:12.537 2356 Level-0 table #909: 42347 bytes OK
+2023/08/05-23:33:12.539 2356 Delete type=0 #906
+2023/08/05-23:33:12.539 2356 Compacting 4@0 + 1@1 files
+2023/08/05-23:33:12.559 2356 Generated table #910@0: 116 keys, 3521180 bytes
+2023/08/05-23:33:12.559 2356 Compacted 4@0 + 1@1 files => 3521180 bytes
+2023/08/05-23:33:12.561 2356 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/05-23:33:12.561 2356 Delete type=2 #907
+2023/08/05-23:33:12.561 2356 Delete type=2 #900
+2023/08/05-23:33:12.561 2356 Delete type=2 #909
+2023/08/05-23:33:12.561 2356 Delete type=2 #903
+2023/08/05-23:33:12.561 2356 Delete type=2 #905
+2023/08/05-23:33:24.738 30bc Level-0 table #912: started
+2023/08/05-23:33:24.749 30bc Level-0 table #912: 23694 bytes OK
+2023/08/05-23:33:24.751 30bc Delete type=0 #908
+2023/08/05-23:51:15.879 30bc Level-0 table #914: started
+2023/08/05-23:51:15.887 30bc Level-0 table #914: 28172 bytes OK
+2023/08/05-23:51:15.889 30bc Delete type=0 #911
+2023/08/06-00:46:22.155 69a9 Level-0 table #916: started
+2023/08/06-00:46:22.164 69a9 Level-0 table #916: 19711 bytes OK
+2023/08/06-00:46:22.167 69a9 Delete type=0 #913
+2023/08/06-00:46:28.865 6539 Level-0 table #918: started
+2023/08/06-00:46:28.875 6539 Level-0 table #918: 22805 bytes OK
+2023/08/06-00:46:28.877 6539 Delete type=0 #915
+2023/08/06-00:46:28.877 6539 Compacting 4@0 + 1@1 files
+2023/08/06-00:46:28.902 6539 Generated table #919@0: 116 keys, 3521718 bytes
+2023/08/06-00:46:28.902 6539 Compacted 4@0 + 1@1 files => 3521718 bytes
+2023/08/06-00:46:28.904 6539 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/06-00:46:28.904 6539 Delete type=2 #918
+2023/08/06-00:46:28.904 6539 Delete type=2 #916
+2023/08/06-00:46:28.904 6539 Delete type=2 #910
+2023/08/06-00:46:28.904 6539 Delete type=2 #914
+2023/08/06-00:46:28.904 6539 Delete type=2 #912
+2023/08/06-01:15:07.232 6539 Level-0 table #921: started
+2023/08/06-01:15:07.242 6539 Level-0 table #921: 36125 bytes OK
+2023/08/06-01:15:07.244 6539 Delete type=0 #917
+2023/08/06-02:49:41.516 6d7b Level-0 table #923: started
+2023/08/06-02:49:41.518 6d7b Level-0 table #923: 22202 bytes OK
+2023/08/06-02:49:41.520 6d7b Delete type=0 #920
+2023/08/06-02:52:14.581 75f6 Level-0 table #925: started
+2023/08/06-02:52:14.591 75f6 Level-0 table #925: 23872 bytes OK
+2023/08/06-02:52:14.595 75f6 Delete type=0 #922
+2023/08/06-03:01:02.538 7bba Level-0 table #927: started
+2023/08/06-03:01:02.550 7bba Level-0 table #927: 28434 bytes OK
+2023/08/06-03:01:02.552 7bba Delete type=0 #924
+2023/08/06-03:01:02.552 7bba Compacting 4@0 + 1@1 files
+2023/08/06-03:01:02.576 7bba Generated table #928@0: 116 keys, 3521598 bytes
+2023/08/06-03:01:02.576 7bba Compacted 4@0 + 1@1 files => 3521598 bytes
+2023/08/06-03:01:02.578 7bba compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/08/06-03:01:02.578 7bba Delete type=2 #925
+2023/08/06-03:01:02.578 7bba Delete type=2 #927
+2023/08/06-03:01:02.578 7bba Delete type=2 #921
+2023/08/06-03:01:02.578 7bba Delete type=2 #919
+2023/08/06-03:01:02.578 7bba Delete type=2 #923
+2023/08/06-03:47:36.574 edfc Level-0 table #930: started
+2023/08/06-03:47:36.589 edfc Level-0 table #930: 1800993 bytes OK
+2023/08/06-03:47:36.604 edfc Delete type=0 #926
+2023/08/06-11:21:32.526 edfc Level-0 table #932: started
+2023/08/06-11:21:32.528 edfc Level-0 table #932: 24038 bytes OK
+2023/08/06-11:21:32.531 edfc Delete type=0 #929
+2023/08/06-11:23:50.675 edfc Level-0 table #934: started
+2023/08/06-11:23:50.680 edfc Level-0 table #934: 32808 bytes OK
+2023/08/06-11:23:50.682 edfc Delete type=0 #931

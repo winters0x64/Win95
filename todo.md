@@ -1,0 +1,3 @@
+- Modularisation
+-  Tweaking functionality as preferred
+-  GTK themes,icons and fonts
